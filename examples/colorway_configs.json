@@ -1,0 +1,239 @@
+{
+    "_comment": "GEN AICG PP — Colorway configurations extracted from article selections",
+    
+    "article_selection_1_d4t_tee": {
+        "description": "Article #1 — D4T TEE, Training Apparel Men (Parent: IEJ24)",
+        "source_image": "Source photo of the D4T TEE",
+        "zones": ["Main", "3bar", "Logo"],
+        "colorways": [
+            {
+                "name": "JI8124",
+                "season": "SS25",
+                "zones": [
+                    {"mask_index": 0, "r": 204, "g": 18, "b": 37, "label": "Main"},
+                    {"mask_index": 1, "r": 4, "g": 0, "b": 0, "label": "3bar"},
+                    {"mask_index": 2, "r": 4, "g": 0, "b": 0, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "JX3291",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 182, "g": 166, "b": 201, "label": "Main"},
+                    {"mask_index": 1, "r": 4, "g": 0, "b": 0, "label": "3bar"},
+                    {"mask_index": 2, "r": 4, "g": 0, "b": 0, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "KE9860",
+                "season": "SS26",
+                "zones": [
+                    {"mask_index": 0, "r": 37, "g": 79, "b": 107, "label": "Main"},
+                    {"mask_index": 1, "r": 4, "g": 0, "b": 0, "label": "3bar"},
+                    {"mask_index": 2, "r": 4, "g": 0, "b": 0, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "KS3813",
+                "season": "SS25",
+                "zones": [
+                    {"mask_index": 0, "r": 63, "g": 66, "b": 129, "label": "Main"},
+                    {"mask_index": 1, "r": 4, "g": 0, "b": 0, "label": "3bar"},
+                    {"mask_index": 2, "r": 4, "g": 0, "b": 0, "label": "Logo"}
+                ]
+            }
+        ]
+    },
+
+    "article_selection_2_d4t_knit_pant": {
+        "description": "Article #2 — D4T KNIT PANT, Training Apparel Men (Parent: KWE19)",
+        "source_image": "Source photo of the D4T Knit Pant",
+        "zones": ["Main"],
+        "colorways": [
+            {
+                "name": "JC6249",
+                "season": "SS25",
+                "zones": [
+                    {"mask_index": 0, "r": 66, "g": 17, "b": 34, "label": "Main (Red)"}
+                ]
+            },
+            {
+                "name": "JX1168",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 137, "g": 125, "b": 113, "label": "Main (Brown)"}
+                ]
+            },
+            {
+                "name": "KT4116",
+                "season": "SS26",
+                "zones": [
+                    {"mask_index": 0, "r": 149, "g": 163, "b": 160, "label": "Main (Green)"}
+                ]
+            },
+            {
+                "name": "KU9287",
+                "season": "FW26",
+                "zones": [
+                    {"mask_index": 0, "r": 78, "g": 85, "b": 104, "label": "Main (Blue)"}
+                ]
+            }
+        ]
+    },
+
+    "article_selection_3_m3s_sj_t": {
+        "description": "Article #3 — M 3S SJ T, Training Apparel Men (Parent: KTF02)",
+        "source_image": "Source photo of the M 3S SJ T-shirt",
+        "zones": ["Main", "3 stripes alongside seam", "Logo"],
+        "colorways": [
+            {
+                "name": "JD1906",
+                "season": "SS25",
+                "zones": [
+                    {"mask_index": 0, "r": 4, "g": 0, "b": 0, "label": "Main (Black)"},
+                    {"mask_index": 1, "r": 255, "g": 255, "b": 255, "label": "3 stripes"},
+                    {"mask_index": 2, "r": 255, "g": 255, "b": 255, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "JX0732",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 88, "g": 148, "b": 134, "label": "Main (Turqoise)"},
+                    {"mask_index": 1, "r": 4, "g": 0, "b": 0, "label": "3 stripes"},
+                    {"mask_index": 2, "r": 4, "g": 0, "b": 0, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "KC0887",
+                "season": "SS26",
+                "zones": [
+                    {"mask_index": 0, "r": 74, "g": 74, "b": 77, "label": "Main (Dark Grey)"},
+                    {"mask_index": 1, "r": 4, "g": 0, "b": 0, "label": "3 stripes"},
+                    {"mask_index": 2, "r": 4, "g": 0, "b": 0, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "KF2222",
+                "season": "FW26",
+                "zones": [
+                    {"mask_index": 0, "r": 242, "g": 238, "b": 214, "label": "Main (Beige)"},
+                    {"mask_index": 1, "r": 49, "g": 76, "b": 68, "label": "3 stripes (Green)"},
+                    {"mask_index": 2, "r": 49, "g": 76, "b": 68, "label": "Logo (Green)"}
+                ]
+            }
+        ]
+    },
+
+    "article_selection_4b_w_ess_3s_ts": {
+        "description": "Article #4-B — W ESS 3S TS, Sportswear Apparel Women (Parent: KWS03)",
+        "source_image": "Source photo of the W ESS 3S Tracksuit",
+        "zones": ["Main", "3 stripes on sleeves", "Logo"],
+        "colorways": [
+            {
+                "name": "JD2688",
+                "season": "SS25",
+                "zones": [
+                    {"mask_index": 0, "r": 47, "g": 64, "b": 125, "label": "Main (Blue)"},
+                    {"mask_index": 1, "r": 255, "g": 255, "b": 255, "label": "3 stripes"},
+                    {"mask_index": 2, "r": 255, "g": 255, "b": 255, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "JX0508",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 109, "g": 127, "b": 187, "label": "Main (Blue)"},
+                    {"mask_index": 1, "r": 255, "g": 255, "b": 255, "label": "3 stripes"},
+                    {"mask_index": 2, "r": 255, "g": 255, "b": 255, "label": "Logo"}
+                ]
+            },
+            {
+                "name": "KB8163_white",
+                "season": "SS26",
+                "zones": [
+                    {"mask_index": 0, "r": 245, "g": 244, "b": 231, "label": "Main (White)"},
+                    {"mask_index": 1, "r": 230, "g": 201, "b": 219, "label": "3 stripes (Pink)"},
+                    {"mask_index": 2, "r": 230, "g": 201, "b": 219, "label": "Logo (Pink)"}
+                ]
+            },
+            {
+                "name": "KB8163_pink",
+                "season": "SS26",
+                "zones": [
+                    {"mask_index": 0, "r": 206, "g": 142, "b": 176, "label": "Main (Pink)"},
+                    {"mask_index": 1, "r": 217, "g": 173, "b": 198, "label": "3 stripes (Pink)"},
+                    {"mask_index": 2, "r": 217, "g": 173, "b": 198, "label": "Logo (Pink)"}
+                ]
+            }
+        ]
+    },
+
+    "article_selection_5_tiro25c_aw_jktw": {
+        "description": "Article #5 — TIRO25C AW JKTW, Football Apparel Women (Parent: JSJ87)",
+        "source_image": "Source photo of the TIRO25C jacket",
+        "zones": [
+            "Main body",
+            "3 stripes on sleeves",
+            "Logo",
+            "Sleeve lower",
+            "Upper side insert panel",
+            "3mm piping on front div seam",
+            "Lower side panel left/right"
+        ],
+        "colorways": [
+            {
+                "name": "JW4388",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 140, "g": 137, "b": 189, "label": "Main (Purple)"},
+                    {"mask_index": 1, "r": 200, "g": 193, "b": 219, "label": "3 stripes (Light Purple)"},
+                    {"mask_index": 2, "r": 200, "g": 193, "b": 219, "label": "Logo (Light Purple)"},
+                    {"mask_index": 3, "r": 54, "g": 45, "b": 77, "label": "Sleeve lower (Dark Purple)"},
+                    {"mask_index": 4, "r": 54, "g": 45, "b": 77, "label": "Upper side insert (Dark Purple)"},
+                    {"mask_index": 5, "r": 255, "g": 255, "b": 255, "label": "3mm piping (White)"},
+                    {"mask_index": 6, "r": 54, "g": 45, "b": 77, "label": "Lower side panel (Dark Purple)"}
+                ]
+            },
+            {
+                "name": "IW0454",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 4, "g": 0, "b": 0, "label": "Main (Black)"},
+                    {"mask_index": 1, "r": 255, "g": 255, "b": 255, "label": "3 stripes (White)"},
+                    {"mask_index": 2, "r": 255, "g": 255, "b": 255, "label": "Logo (White)"},
+                    {"mask_index": 3, "r": 4, "g": 0, "b": 0, "label": "Sleeve lower (Black)"},
+                    {"mask_index": 4, "r": 255, "g": 255, "b": 255, "label": "Upper side insert (White)"},
+                    {"mask_index": 5, "r": 255, "g": 255, "b": 255, "label": "3mm piping (White)"},
+                    {"mask_index": 6, "r": 4, "g": 0, "b": 0, "label": "Lower side panel (Black)"}
+                ]
+            },
+            {
+                "name": "JC7027",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 187, "g": 64, "b": 82, "label": "Main (Pink)"},
+                    {"mask_index": 1, "r": 203, "g": 221, "b": 59, "label": "3 stripes (Yellow)"},
+                    {"mask_index": 2, "r": 203, "g": 221, "b": 59, "label": "Logo (Yellow)"},
+                    {"mask_index": 3, "r": 92, "g": 38, "b": 51, "label": "Sleeve lower (Red)"},
+                    {"mask_index": 4, "r": 255, "g": 255, "b": 255, "label": "Upper side insert (White)"},
+                    {"mask_index": 5, "r": 203, "g": 221, "b": 59, "label": "3mm piping (Yellow)"},
+                    {"mask_index": 6, "r": 92, "g": 38, "b": 51, "label": "Lower side panel (Red)"}
+                ]
+            },
+            {
+                "name": "JC7025",
+                "season": "FW25",
+                "zones": [
+                    {"mask_index": 0, "r": 228, "g": 197, "b": 186, "label": "Main (Pink)"},
+                    {"mask_index": 1, "r": 49, "g": 52, "b": 62, "label": "3 stripes (Blue)"},
+                    {"mask_index": 2, "r": 49, "g": 52, "b": 62, "label": "Logo (Blue)"},
+                    {"mask_index": 3, "r": 201, "g": 151, "b": 134, "label": "Sleeve lower (Pink)"},
+                    {"mask_index": 4, "r": 255, "g": 255, "b": 255, "label": "Upper side insert (White)"},
+                    {"mask_index": 5, "r": 255, "g": 255, "b": 255, "label": "3mm piping (White)"},
+                    {"mask_index": 6, "r": 201, "g": 151, "b": 134, "label": "Lower side panel (Pink)"}
+                ]
+            }
+        ]
+    }
+}
