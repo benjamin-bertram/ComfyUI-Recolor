@@ -1,37 +1,3 @@
-# ComfyUI-Product-Recolor
-
-**Precise product photo recoloring using LAB color space.**  
-Developed for the Adidas GEN AICG PP — Colorways Pipeline.
-
----
-
-## Problem
-
-You photograph a product once, but it comes in 4–17 colorways. You need to generate all color variants from a single source photo **without changing anything** — same pose, same lighting, same texture, same folds, same shadows. Only the color changes.
-
-Some products (pants) have a single color zone.  
-Others (jackets, tracksuits) have 7+ zones: main body, stripes, logo, sleeve panels, piping, etc.
-
-## Solution: LAB Color Space Transfer (No AI Generation Needed)
-
-This is **not** an image generation problem — it's a **color transfer** problem.
-
-Using LAB color space:
-- **L channel** = luminance (brightness, shadows, texture) → **preserved**
-- **a\* channel** = green–red axis → **replaced** with target
-- **b\* channel** = blue–yellow axis → **replaced** with target
-
-This approach:
-- ✅ Preserves 100% of texture, folds, seams, stitching
-- ✅ Preserves shadows and highlights (3D form)
-- ✅ Gives exact RGB color matching
-- ✅ Works instantly (no generation time)
-- ✅ Deterministic (same input = same output)
-- ✅ Handles multi-zone products
-- ❌ Does NOT change material appearance (matte↔glossy needs generation)
-
----
-
 ## Installation
 
 ### 1. Copy to ComfyUI
